@@ -1,1 +1,12 @@
 streamlit
+streamlit
+requests
+openai
+pysqlite3-binary
+protobuf==3.20
+chromadb
+crewai
+fpdf
+crewai_tools
+bespokelabs
+scikit-learn
